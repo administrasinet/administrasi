@@ -28,6 +28,18 @@ pagination:
 	   {{ page.video_description }}</p>
 </div>
 {% endif %}
+			{% if page.link_yvideo %}
+			<div class="video-container">
+				 <iframe class="responsive" 
+      src="{{ page.link_yvideo }}"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+				
+   <p>
+	   {{ page.video_description }}</p>
+</div>
+{% endif %}
                     {{ content }} 
 				    {% include tag.html %}
                 </div>

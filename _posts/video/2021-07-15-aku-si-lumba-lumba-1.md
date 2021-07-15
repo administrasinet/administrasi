@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Aku Si Lumba-lumba
-description: "Video Aku Si Lumba-lumba "
+title: Video Aku Si Lumba-lumba
+description: Video Aku Si Lumba-lumba Video Pembelajaran Bagi Pendidikan PAUD
 image: /img/twitter-card.png
 date: 2021-07-15T06:40:35.904Z
 link_video: https://rest-app.belajar.kemdikbud.go.id/files/video/1b7bd3c960b64cfcb63ba1fd2a6e6c29.mp4

@@ -368,12 +368,12 @@ collections:
       - label: "Link video"
         name: "link_video"
         widget: "string"
-        pattern: "Isi Bila Sumber Video Bukan dari Youtube"
+        hint: "Isi Bila Sumber Video Bukan dari Youtube"
         required: false
       - label: "Link Youtube video"
         name: "link_yvideo"
         widget: "string"
-        pattern: "Isi Bila Sumber Video dari Youtube"
+        hint: "Isi Bila Sumber Video dari Youtube"
         required: false
       - {label: "Video Description", name: "video_description", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}

@@ -368,7 +368,11 @@ collections:
       - label: "Link video"
         name: "link_video"
         widget: "string"
-        required: True
+        required: false
+      - label: "Link Youtube video"
+        name: "link_yvideo"
+        widget: "string"
+        required: false
       - {label: "Video Description", name: "video_description", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
   - name: "panduan"

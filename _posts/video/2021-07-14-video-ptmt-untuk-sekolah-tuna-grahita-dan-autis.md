@@ -13,5 +13,4 @@ tags:
   - sekolah
   - guru
 ---
-
 Video ini berisi tentang strategi penyiapan pembelajaran di Sekolah Luar Biasa untuk ketunaan Tuna Grahita dan Sekolah Luar Biasa dengan Ketunaan Autis. Pada umumnya orangtua dengan Anak-anak dengan Tuna Grahita dan Autis pada umumnya kesulitan melaksanakan pembelajaran jarak jauh di rumah.

@@ -9,5 +9,6 @@ tags:
   - video
   - pppk
 link_video: https://www.kemdikbud.go.id/main/uploads/default/videos/PPK.mp4
-video_description: Wujudkan Generasi Cerdas Berkarakter
 ---
+
+Wujudkan Generasi Cerdas Berkarakter

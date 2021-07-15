@@ -376,7 +376,7 @@ collections:
         widget: "string"
         hint: "Isikan link disini bila video berasal dari youtube dan abaikan jika bukan"
         required: false
-      - {label: "Video Description", name: "video_description", widget: "markdown"}
+      - {label: "Video Description", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
       - label: "Nama Sumber"
         name: "nama_sumber_1"

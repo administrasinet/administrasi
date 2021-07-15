@@ -376,6 +376,14 @@ collections:
         required: false
       - {label: "Video Description", name: "video_description", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - label: "Nama Sumber"
+        name: "nama_sumber_1"
+        widget: "string"
+        required: false
+      - label: "Link Sumber"
+        name: "link_sumber_1"
+        widget: "string"
+        required: false
   - name: "panduan"
     label: "Panduan"
     folder: "_pages/doc"

@@ -19,14 +19,14 @@ pagination:
                     {% include ads-artikel.html %}
                     {% toc %}
 		    {% if page.link_video %}
-			<div class="video-container">
+			<div class="video-container mb-3">
 			<video class="responsive" controls preload="auto">
   			<source src="{{ page.link_video }}" type='video/mp4'>
 			</video>
    			</div>{% endif %}
 	             {% if page.link_yvideo %}
 			
-			<div class="video-container">
+			<div class="video-container mb-3">
 			<iframe class="responsive" src="{{ page.link_yvideo }}" frameborder="0" allowfullscreen=""></iframe>
 			</div>
 			{% endif %}

@@ -11,7 +11,7 @@
     font-size: 1.5rem;
 }.video-container{position: relative;
   overflow: hidden;
-  width: 100%;display:block}
+  width: 100%;display:block;padding-top: 56.25%;}
 .responsive {
   position: absolute;
   top: 0;

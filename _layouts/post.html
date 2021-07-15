@@ -23,15 +23,15 @@ pagination:
 			<video class="responsive" controls preload="auto">
   			<source src="{{ page.link_video }}" type='video/mp4'>
 			</video>
-   			<p>
-	   		{{ page.video_description }}</p>
+   			<div>
+	   		{{ page.video_description }}</div>
 			</div>{% endif %}
 	             {% if page.link_yvideo %}
 			
 			<div class="video-container">
 			<iframe class="responsive" src="{{ page.link_yvideo }}" frameborder="0" allowfullscreen=""></iframe>
-			<p>
-	   		{{ page.video_description }}</p>
+			<div>
+	   		{{ page.video_description }}</div>
 			</div>
 			{% endif %}
                     {{ content }} 

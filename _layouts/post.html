@@ -18,28 +18,22 @@ pagination:
                     {% if page.description %}<p>{{ page.description }}</p>{% endif %}
                     {% include ads-artikel.html %}
                     {% toc %}
-		{% if page.link_video %}
+		    {% if page.link_video %}
 			<div class="video-container">
-				<video class="responsive" controls
- preload="auto">
-  <source src="{{ page.link_video }}" type='video/mp4'>
-</video>
-   <p>
-	   {{ page.video_description }}</p>
-</div>
-{% endif %}
-			{% if page.link_yvideo %}
+			<video class="responsive" controls preload="auto">
+  			<source src="{{ page.link_video }}" type='video/mp4'>
+			</video>
+   			<p>
+	   		{{ page.video_description }}</p>
+			</div>
+	             {% else %}
+			
 			<div class="video-container">
-				 <iframe class="responsive" 
-      src="{{ page.link_yvideo }}"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-				
-   <p>
-	   {{ page.video_description }}</p>
-</div>
-{% endif %}
+			<iframe class="responsive" src="{{ page.link_yvideo }}" frameborder="0" allowfullscreen=""></iframe>
+			<p>
+	   		{{ page.video_description }}</p>
+			</div>
+			{% endif %}
                     {{ content }} 
 				    {% include tag.html %}
                 </div>

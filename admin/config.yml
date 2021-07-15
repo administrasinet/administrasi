@@ -365,15 +365,13 @@ collections:
         name: "name_video_source"
         widget: "string"
         required: false
-      - label: "Link video"
+      - label: "Isi Bila Link Video Bukan dari Youtube"
         name: "link_video"
         widget: "string"
-        hint: "Isi Bila Sumber Video Bukan dari Youtube"
         required: false
-      - label: "Link Youtube video"
+      - label: "Isi Bila Link Video Berasal Dari Youtube"
         name: "link_yvideo"
         widget: "string"
-        hint: "Isi Bila Sumber Video dari Youtube"
         required: false
       - {label: "Video Description", name: "video_description", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}

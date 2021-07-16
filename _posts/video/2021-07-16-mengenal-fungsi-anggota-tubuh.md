@@ -12,6 +12,7 @@ tags:
   - tunadaksa
   - media
   - pembelajaran
+  - slb
 nama_sumber_1: Kemdikbud.go.id
 link_sumber_1: https://sumber.belajar.kemdikbud.go.id/
 ---

@@ -6,6 +6,13 @@ description: Video Pembelajaran Aku Bisa Menjernihkan bagi anak usia dini/
 date: 2021-07-16T13:01:14.313Z
 name_video_source: Aku Bisa Menjernihkan
 link_video: https://rest-app.belajar.kemdikbud.go.id/files/video/90c33e78982c4e4597d497145f29c013.mp4
+tags:
+  - video
+  - media
+  - pembelajaran
+  - mp4
+nama_sumber_1: Kemdikbud.go.id
+link_sumber_1: https://sumber.belajar.kemdikbud.go.id/#!/Content/Home/Details/d0ed0ab6a31c4931ba31a1e6e0a87d89
 ---
 ### TUJUAN PEMBELAJARAN
 1. Siswa mampu mengenal air bersih 

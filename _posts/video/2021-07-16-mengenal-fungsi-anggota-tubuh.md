@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Mengenal Fungsi Anggota Tubuh
-description: Materi Pengenalan Fungsi Anggota Tubuh VIdeo Pembelajaran Kelas
+title: Mengenal Fungsi Anggota Tubuh Bagi Siswa Tunadaksa
+description: Materi Pengenalan Fungsi Anggota Tubuh Video Pembelajaran Kelas
   VIII D (Tunadaksa)
 date: 2021-07-16T13:10:00.663Z
-author: Puguh Sudarminto
 link_video: https://rest-app.belajar.kemdikbud.go.id/files/video/97db412a09c1483c8455b2b8d27432e1.mp4
-link_yvideo: ""
 tags:
   - kelas VIII
   - tunadaksa

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video Pembelajaran Aku Bisa Menjernihkan
+title: Video Pembelajaran Aku Bisa Menjernihkan Bagi Anak Usia Dini
 description: Video Pembelajaran Aku Bisa Menjernihkan bagi anak usia dini/
   Pendidikan Anak Usia Dini
 date: 2021-07-16T13:01:14.313Z
@@ -11,6 +11,7 @@ tags:
   - media
   - pembelajaran
   - mp4
+  - paud
 nama_sumber_1: Kemdikbud.go.id
 link_sumber_1: https://sumber.belajar.kemdikbud.go.id/#!/Content/Home/Details/d0ed0ab6a31c4931ba31a1e6e0a87d89
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Video Pembelajaran Ayo Sholat
-description: "Video Pembelajaran Ayo Sholat Sasaran/Jenjang: SDLB-B Kls.
+title: Video Pembelajaran Ayo Sholat Bagi Siswa Tunarungu 
+description: "Video Pembelajaran Ayo Sholat Bagi Siswa Tunarungu Sasaran/Jenjang: SDLB-B Kls.
   3/2  Topik: Agama Islam/Sholat."
 date: 2021-07-18T13:19:19.000Z
 name_video_source: Video Pembelajaran Ayo Sholat

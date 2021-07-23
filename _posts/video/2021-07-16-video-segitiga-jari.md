@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video Segitiga Jari
+title: Video Pembelajaran Segitiga Jari Bagi Siswa Tunarungu 
 description: Video Pembelajaran Segitiga Jari Bagi Siswa Tunarungu Satuan
   Pendidikan Sekolah Dasar Luar Biasa (SDLB)
 date: 2021-07-16T13:28:18.308Z

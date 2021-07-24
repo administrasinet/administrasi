@@ -4,7 +4,7 @@ title: Buku Siswa Tunagrahita Kelas 8 Tema 1 Teman Sahabatku
 description: Buku Siswa Tunagrahita Kelas 8 Tema 1 Teman Sahabatku Kurikulum 2013, Download buku
   Kelas 8 Tema 1 Teman Sahabatku bagi tunagrahita
 image: /img/buku-smplb.png
-last_modified_date: 2021-07-25T09:47:20.398Z
+last_modified_date: 2021-07-24T09:47:20.398Z
 tags:
   - buku
   - pendidikan

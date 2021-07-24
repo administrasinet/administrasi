@@ -138,9 +138,9 @@
         ]
   },
  "url": "{{ site.url }}{{ page.url }}",
- "datePublished": "{% if page.description %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
- "dateCreated": "{% if page.description %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
- "dateModified": "{% if page.description %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
+ "datePublished": "{% if page.date %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
+ "dateCreated": "{% if page.date %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
+ "dateModified": "{% if page.date %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
  "description": "{% if page.description %}{{ page.description | truncate: 160}}{% else %}{{ page.excerpt }}{% endif %}",
  "articleBody": "{{page.content | strip_html }}. {%if page.title %}{{ page.title }} - {{ site.name }}{% else %}{{ site.title }} - {{ site.name }}{% endif %}"
  }

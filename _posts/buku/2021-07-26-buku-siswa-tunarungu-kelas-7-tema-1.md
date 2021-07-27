@@ -26,7 +26,7 @@ tags:
 
 Materi pembelajaran bagi anak tunarungu dalam **Buku Kelas 7 Tema 1 ** ini berbeda dengan materi pembelajaran di kelas SMP umum, dimana bobot materinya lebih rendah disesuaikan dengan karakteristik anak **tunarungu**.
 
-Bagi anda guru yang mengajar atau siswa yang duduk di **Kelas 7 C (tunarungu)** tentunya buku ini akan bermanfaat bagi anda.
+Bagi anda guru yang mengajar atau siswa yang duduk di **Kelas 7 B (tunarungu)** tentunya buku ini akan bermanfaat bagi anda.
 
 ## Buku Siswa Kelas 7 Tema 1 SMPLB tunarungu  
 

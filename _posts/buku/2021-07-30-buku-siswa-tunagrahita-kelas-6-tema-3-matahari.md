@@ -2,7 +2,7 @@
 layout: post
 title: Buku Siswa Tunagrahita Kelas 6 Tema 3 Matahari
 description: Buku Siswa Tunagrahita Kelas 6 Tema 3 Kurikulum 2013, Download buku Kelas 6 Tema 3 Matahari bagi tunagrahita
-last_modified_date: 2021-02-23T03:47:20.398Z
+last_modified_date: 2021-07-30T03:47:20.398Z
 image: buku-sdlb.png
 tags:
   - buku

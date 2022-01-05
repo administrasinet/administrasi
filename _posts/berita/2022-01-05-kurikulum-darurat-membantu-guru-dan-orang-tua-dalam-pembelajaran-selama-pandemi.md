@@ -2,6 +2,7 @@
 layout: post
 title: Kurikulum Darurat Membantu Guru dan Orang Tua dalam Pembelajaran Selama Pandemi
 description: Kurikulum Darurat Membantu Guru dan Orang Tua dalam Pembelajaran Selama Pandemi
+image: /img/1599146960-kebijakan-pandemi-kemdikbud.jpg
 last_modified_date: 2022-01-05T06:52:59.210Z
 ---
 Selama masa pandemi Covid-19, satuan pendidikan diberikan opsi untuk  memilih kurikulum yang diterapkan dalam pembelajaran, yaitu Kurikulum 2013 atau Kurikulum Darurat (Kurikulum 20213 yang disederhanakan). Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek) membuat modul-modul pembelajaran yang diberikan untuk guru dan orang tua untuk mempermudah pendampingan dalam pembelajaran selama masa pandemi Covid-19. Dalam kegiatan pemantauan dan evaluasi yang berlangsung di Provinsi Jawa Timur, penerapan Kurikulum Darurat mendapatkan respons yang positif dari guru, orang tua, dan pegiat literasi. 

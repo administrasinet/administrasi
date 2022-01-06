@@ -2,7 +2,7 @@
 layout: post
 title: Inilah Syarat PTM 100 Persen di Sekolah
 description: "Syarat PTM 100 Persen: Capaian Vaksinasi Guru dan PPKM Level 1-2"
-image: https://gtk.kemdikbud.go.id/assets/images/news/1641373297
+image: /img/1641373297.jpg
 last_modified_date: 2022-01-06T14:22:55.399Z
 tags:
   - sekolah

@@ -2,7 +2,7 @@
 layout: post
 title: "Penggunaan Teknologi Digital Dalam Pemantauan Pembelajaran Tatap Muka (PTM) "
 description: Pemantauan Pembelajaran Tatap Muka (PTM) Gunakan Teknologi Digital
-image: https://imgsrv2.voi.id/xFRCr0RpirR80-9PC0UJ3vl3l3gqYQBdBrGM0gqsEr4/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy84MjIwMy8yMDIxMDkwNTEyMzgtbWFpbi5qcGVn.jpg
+image: /img/202109051238-main.jpg
 last_modified_date: 2022-01-06T14:25:25.440Z
 tags:
   - sekolah

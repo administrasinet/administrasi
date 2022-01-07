@@ -2,6 +2,7 @@
 layout: post
 title: Ketum Honorer Bawa Kabar Tak Sedap soal PPPK  Usai Bertemu Pejabat KemenPAN-RB
 description: Ketum Honorer Bawa Kabar Tak Sedap soal PPPK  Usai Bertemu Pejabat KemenPAN-RB
+image: /img/cpns.jpg
 last_modified_date: 2022-01-07T12:54:34.205Z
 tags:
   - cpns

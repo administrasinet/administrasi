@@ -1,21 +1,16 @@
 ---
 title: Apakah Anak Anda Lamban Belajar (Slow Learner)?
-description: >-
-  Lamban belajar adalah anak-anak yang memerlukan sedikit lebih banyak waktu
-  daripada yang lain untuk memahami konsep baik itu dalam mengikuti pembelajaran
-  di sekolah atau dalam mempelajari hal baru di rumah.
+description: Lamban belajar adalah anak-anak yang memerlukan sedikit lebih
+  banyak waktu daripada yang lain untuk memahami konsep baik itu dalam mengikuti
+  pembelajaran di sekolah atau dalam mempelajari hal baru di rumah.
 last_modified_date: 2019-09-28T10:10:10.262Z
+date: 2022-01-08T10:20:48.486Z
 tags:
   - referensi
   - kesulitan-belajar
   - abk
   - orang-tua
 ---
-
-* TOC
-{:toc}
-
-
 [Administrasi.Net](/ "Administrasi.Net") - Banyak orangtua mulai khawatir jika anak mereka lambat dalam belajar. Perlu difahami, orang tua dan guru perlu menahan diri dari komentar negatif seperti melabeli anak dengan kata 'bodoh' karena mereka umumnya sangat peka dan mereka masih bergantung pada umpan balik dari orang dewasa yang mengatur kehidupan kecil mereka. Negativitas Anda akan semakin memengaruhi proses belajar anak saat ia mulai percaya pada ketidakmampuannya untuk belajar.
 
 ### Apa itu lamban belajar (*Slow Learner*)?

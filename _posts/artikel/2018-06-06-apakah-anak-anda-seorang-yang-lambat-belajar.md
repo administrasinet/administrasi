@@ -1,10 +1,10 @@
 ---
 title: Apakah Anak Anda Lamban Belajar (Slow Learner)?
-description: >-
-  Lamban belajar adalah anak-anak yang memerlukan sedikit lebih banyak waktu
-  daripada yang lain untuk memahami konsep baik itu dalam mengikuti pembelajaran
-  di sekolah atau dalam mempelajari hal baru di rumah.
+description: Lamban belajar adalah anak-anak yang memerlukan sedikit lebih
+  banyak waktu daripada yang lain untuk memahami konsep baik itu dalam mengikuti
+  pembelajaran di sekolah atau dalam mempelajari hal baru di rumah.
 last_modified_date: 2019-09-28T10:10:10.262Z
+date: 2022-01-08T10:21:06.337Z
 tags:
   - referensi
   - kesulitan-belajar

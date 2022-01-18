@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Buku Guru Tunagrahita Kelas 9 Tema 4 Teknologi Pangan
-description: Buku Guru Tunagrahita Kelas 9 Tema 4 Kurikulum 2013, Download buku Kelas 9 Tema 4 Teknologi Pangan bagi tunagrahita
-last_modified_date: 2021-03-01T03:47:20.398Z
+title: Buku Guru Tunagrahita Kelas 9 Tema 7 Aku Suka Berpetualang
+description: Buku Guru Tunagrahita Kelas 9 Tema 7 Kurikulum 2013, Download buku
+  Kelas 9 Tema 7 Aku Suka Berpetualang
 image: buku-smplb.png
+last_modified_date: 2021-03-01T03:47:20.398Z
 tags:
   - buku
   - pendidikan

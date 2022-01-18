@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Buku Siswa Tunagrahita Kelas 9 Tema 5 Teknologi Informasi dan Komunikasi
-description: Buku Siswa Tunagrahita Kelas 9 Tema 5 Teknologi Informasi dan Komunikasi Kurikulum 2013, Download buku
-  Kelas 9 Tema 5 Teknologi Informasi dan Komunikasi bagi tunagrahita
+description: Buku Siswa Tunagrahita Kelas 9 Tema 5 Teknologi Informasi dan
+  Komunikasi Kurikulum 2013, Download buku Kelas 9 Tema 5 Teknologi Informasi
+  dan Komunikasi bagi tunagrahita
 image: /img/buku-smplb.png
 last_modified_date: 2021-07-25T09:47:20.398Z
 tags:
@@ -58,5 +59,5 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
   
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 9 Tema 5 Teknologi Informasi dan Komunikasi**:
-<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=16pG0VQcr4ft5q4MdJtyfo1du1Go6eZl2" rel="nofollow" target="_blank" title="Download">Download</a>
-<a class="button demo open-dialog" href="https://drive.google.com/file/d/16pG0VQcr4ft5q4MdJtyfo1du1Go6eZl2/preview" rel="nofollow" target="_blank" title="Download">Baca</a></p>
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1dnKd7qp-BIQDVpxn6V0bssyHxM3w4Ykt" rel="nofollow" target="_blank" title="Download">Download</a>
+<a class="button demo open-dialog" href="https://drive.google.com/file/d/1dnKd7qp-BIQDVpxn6V0bssyHxM3w4Ykt/preview" rel="nofollow" target="_blank" title="Download">Baca</a></p>

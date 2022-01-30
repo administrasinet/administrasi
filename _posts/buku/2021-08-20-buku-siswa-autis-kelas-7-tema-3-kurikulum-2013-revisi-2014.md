@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Buku Siswa Autis Kelas 7 Tema 3 Mari Bermain dan Berolahraga
-description: Buku Siswa Autis Kelas 7 Tema 3 Kurikulum 2013, Download buku
-  Kelas 7 Tema 3 Mari Bermain dan Berolahraga bagi Autis
+description: Buku Siswa Autis Kelas 7 Tema 3 Kurikulum 2013, Download buku Kelas
+  7 Tema 3 Mari Bermain dan Berolahraga bagi Autis
 image: /img/buku-smplb.png
 last_modified_date: 2020-08-20T03:47:20.398Z
 tags:
@@ -36,7 +36,7 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **Kelas 7 Q (Autis)** tent
 |Jenis|<a href="/bse" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SMPLB|
-|Kelas|6 (enam)|
+|Kelas|7 (tujuh)|
 |Penulis|N/A|
 |Penerbit|Pusat Kurikulum dan Perbukuan, Balitbang, Kemdikbud|
 |Jumlah Halaman|N/A|

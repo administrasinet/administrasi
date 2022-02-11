@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Buku Guru Tunagrahita Kelas 9 Tema 2 Terminal, Stasiun, Pelabuhan, Bandar Udara
-description: Buku Guru Tunagrahita Kelas 9 Tema 2 Kurikulum 2013, Download buku Kelas 9 Tema 2 Terminal, Stasiun, Pelabuhan, Bandar Udara bagi tunagrahita
-last_modified_date: 2021-03-01T03:47:20.398Z
+description: Buku Guru Tunagrahita Kelas 9 Tema 2 Kurikulum 2013, Download buku
+  Kelas 9 Tema 2 Terminal, Stasiun, Pelabuhan, Bandar Udara bagi tunagrahita
 image: buku-smplb.png
+last_modified_date: 2021-03-01T03:47:20.398Z
 tags:
   - buku
   - pendidikan
@@ -19,7 +20,7 @@ tags:
   - buku-guru-kelas-9-smplb
 ---
 
-**Buku Guru Kelas 9 <abbr title="Sekolah Dasar Luar Biasa">SDLB</abbr> Tema 2** ini diperuntukkan bagi guru yang memberikan layanan pendidikan/mengajar anak tunagrahita sebagai penunjang pembelajaran.
+**Buku Guru Kelas 9 <abbr title="Sekolah Menengah Pertama Luar Biasa">SMPLB</abbr> Tema 2** ini diperuntukkan bagi guru yang memberikan layanan pendidikan/mengajar anak tunagrahita sebagai penunjang pembelajaran.
 
 [Anak tunagrahita](/teori/tunagrahita "Apa itu Tunagrahita") memiliki kecerdasan di bawah rata-rata anak normal pada umumnya, sehingga keberadaan **buku paket tematik** ini sangatlah berguna bagi guru sebagai panduan dalam menyusun program pembelajaran.
 
@@ -27,7 +28,7 @@ Materi pembelajaran bagi anak tunagrahita dalam **Buku Kelas 9 Tema 2 ** ini ber
 
 Bagi anda guru yang mengajar atau siswa yang duduk di **Kelas 9 C (Tunagrahita)** tentunya buku ini akan bermanfaat bagi anda.
 
-## Buku Guru Kelas 9 Tema 2 SDLB Tunagrahita  
+## Buku Guru Kelas 9 Tema 2 SMPLB Tunagrahita  
 
 |Uraian|Keterangan|
 | --- | --- |

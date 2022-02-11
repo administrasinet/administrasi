@@ -28,7 +28,7 @@ Materi pembelajaran bagi anak tunagrahita dalam **Buku Kelas 9 Tema 2 ** ini ber
 
 Bagi anda guru yang mengajar atau siswa yang duduk di **Kelas 9 C (Tunagrahita)** tentunya buku ini akan bermanfaat bagi anda.
 
-## Buku Guru Kelas 9 Tema 2 SDLB Tunagrahita  
+## Buku Guru Kelas 9 Tema 2 SMPLB Tunagrahita  
 
 |Uraian|Keterangan|
 | --- | --- |
